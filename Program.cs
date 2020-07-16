@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("A");
             Console.WriteLine("A");
             Console.WriteLine("New Code Development Platform");
+            Console.WriteLine("New Code Development Platform");
         }
     }
 }
